@@ -41,12 +41,3 @@ Proyek ini adalah platform e-commerce yang dikembangkan menggunakan **Laravel** 
   php artisan key:generate
   php artisan migrate --seed
   npm run dev
-
-
-## Konfigurasi
-**Database**: Sesuaikan konfigurasi database di `.env` Laravel.
-
-
-
-
-
