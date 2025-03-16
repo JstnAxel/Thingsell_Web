@@ -32,22 +32,16 @@ Proyek ini adalah platform e-commerce yang dikembangkan menggunakan **Laravel** 
   cd repository-name
 ```
 
-### 2. Instalasi Backend (Laravel)
+### 2. Instalasi
 ```sh
-  cd backend
+  cd repository-name
   composer install
+  npm install
   cp .env.example .env
   php artisan key:generate
   php artisan migrate --seed
-  php artisan serve
-```
-
-### 3. Instalasi Frontend (React)
-```sh
-  cd ../frontend
-  npm install
   npm run dev
-```
+
 
 ## Konfigurasi
 **Database**: Sesuaikan konfigurasi database di `.env` Laravel.
