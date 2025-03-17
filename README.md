@@ -16,7 +16,7 @@ Proyek ini adalah platform e-commerce yang dikembangkan menggunakan **Laravel** 
 ### Backend (Laravel)
 - Laravel (v12)
 - Laravel Breeze (untuk autentikasi)
-- MySQL / PostgreSQL (Database)
+- MySQL (Database)
 - Filament
 
 ### Frontend (React)
