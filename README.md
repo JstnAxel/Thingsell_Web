@@ -38,6 +38,7 @@ Proyek ini adalah platform e-commerce yang dikembangkan menggunakan **Laravel** 
   composer install
   npm install
   cp .env.example .env
+  Ubah APP_URL=http://127.0.0.1:8000
   php artisan key:generate
   php artisan migrate --seed
   npm run dev
